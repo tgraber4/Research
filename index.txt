@@ -1,0 +1,22 @@
+
+Type 1
+- Out of Bounds Read (CWE-125)
+
+
+
+
+
+
+
+
+=============== CWE Lookup ===============
+
+------- Out of Bounds Read [Type 1] --------
+
+Also called:
+- Access of Memory Location Before Start of Buffer (CWE-786)
+- Access of Memory Location After End of Buffer (CWE-788)
+- Improper Restriction of Operations within the Bounds of a Memory Buffer (CWE-119)
+
+Related to:
+- Buffer Access with Incorrect Length Value (CWE-805)
